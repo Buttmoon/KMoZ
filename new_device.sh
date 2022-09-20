@@ -1,0 +1,1 @@
+emulator -avd "Pixel_2_API_30" -no-snapshot-save  -memory 2048 -wipe-data -http-proxy guooydry-rotate:nu81yobbdo6q@p.webshare.io:80 -netdelay lte -netspeed lte -port 5556  -logcat *:e | grep com.google*

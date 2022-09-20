@@ -1,0 +1,5 @@
+selenium==4.4.3
+selenium-wire==4.6.5
+undetected_chromedriver==3.1.5.post4
+chromedriver-binary==106.0.5249.21.0 
+Appium-Python-Client==2.6.2
