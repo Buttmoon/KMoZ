@@ -2,7 +2,7 @@ import glob
 import os
 from  seleniumwire.undetected_chromedriver import webdriver
 from appium import webdriver as AppiumWebdriver
-from androidautomate import Device
+from auto import Device
 import subprocess
 # Options are only available since client version 2.3.0
 # If you use an older client then switch to desired_capabilities
